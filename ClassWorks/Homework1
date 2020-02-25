@@ -1,0 +1,29 @@
+Inspired by the BBC's "Your life on earth" - http://www.bbc.com/earth/story/20141016-your-life-on-earth - we will be creating a program to analyze the year a user was born in.
+
+Please create a brand new file named homework-1-lastname.py
+•	The first line should be a comment with your full name
+•	The second line should be a comment with the date
+•	The third line should be a comment "Homework 1"
+
+Create a hupyter notebook file in Google Collab environment, this file should
+
+1.	Prompt the user for their year of birth, and tell them (approximately):
+2.	How old they are
+3.	How many times their heart has beaten
+4.	How many times a blue whale's heart has beaten
+5.	How many times a rabbit's heart has beaten
+6.	If the answer to (5) is more than a billion, say "XXX billion" instead of the very long raw number
+7.	How old they are in Venus years
+8.	How old they are in Neptune years
+9.	Whether they are the same age as you, older or younger
+10.	If older or younger, how many years difference
+11.	If they were born in an even or odd year
+12.	How many times the Pittsburgh Steelers have won the Superbowl since their birth.
+13.	Which US President was in office when they were born (1935 onward)
+Additionally, if someone gives you a year in the future, try asking them again (assume they'll do it right the second time).
+
+## TIPS
+•	How fast does a rabbit's heart beat? I don't know, I'm not a vet - Google it!
+•	If you're having trouble wrapping your head around a problem, write out what you want to do in steps before you try to write the actual Python code.
+•	XXX billion will involve division.
+•	You might end up googling multiple comparisons in an 'if' statement, adding one to variables, the else and elif operators (that's advanced conditionals!), and modulo (for the even/odd one).
